@@ -1,0 +1,4 @@
+MenuItem .pro-menu-item a.active {
+  color: black;  /* put any color you want */
+  font-weight: 500;
+}
